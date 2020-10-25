@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**mino-cmd/mino-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
-Here are some ideas to get you started:
+<p align='center'>
+<a href="/"><img height="30" src=""></a>&nbsp;&nbsp;
+<a href="/"><img height="30" src=""></a>&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Digital Footprints 🌱
+
+ 
+
+#### Few self-built live tools i use everyday :
+*  platform : []()
+*  platform : []()
+
+<details>
+ <summary><strong>What i am learning/working on these days</strong></summary>
+ <ul>
+   <li> .. </li>
+   <li> .. </li>
+   <li> .. </li>
+  </ul>
+</details>
+
+![github stats]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkshitij&layout=compact&hide_border=true)
