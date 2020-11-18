@@ -3,8 +3,6 @@
 I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
 <p align='center'>
-<a href="/"><img height="30" src=""></a>&nbsp;&nbsp;
-<a href="/"><img height="30" src=""></a>&nbsp;&nbsp;
 </p>
 
 ### My Digital Footprints 🌱
