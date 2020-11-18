@@ -21,6 +21,3 @@ I am full stack dev looking to solve real world problems. I have a passion for l
    <li> .. </li>
   </ul>
 </details>
-
-![github stats]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkshitij&layout=compact&hide_border=true)
